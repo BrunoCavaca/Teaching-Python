@@ -2,6 +2,9 @@
 
 This repository contains a collection of notes for learning Python and general programming concepts.
 
+> ⚠️ **Warning:** When you click on the files, the first few pages (or some of them) may appear blank. Do not worry, once the file is downloaded, all the pages will be visible!
+
+
 ## 📥 How to Download the Notes
 
 To download a specific PDF:
