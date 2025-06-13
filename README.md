@@ -15,6 +15,4 @@ To download all notes:
 2. Select **Download ZIP**.
 3. Extract the ZIP file to access the notes on your computer.
 
-## 📄 License
-
-These notes are free to use for educational purposes. You may copy, share, or modify them with proper credit.
+Do contact me if you need any help, or with suggestions!
