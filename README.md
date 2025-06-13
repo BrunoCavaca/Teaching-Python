@@ -7,7 +7,7 @@ This repository contains a collection of notes for learning Python and general p
 To download a specific PDF:
 
 1. Click on the file you want.
-2. Click **Download** to download it.
+2. Click **Download** to download it (the button is on the top right, and looks like a combination of the underscore _ and the down arrow- similar to the emoji!)
 
 To download all notes:
 
